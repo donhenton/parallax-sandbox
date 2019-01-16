@@ -1,5 +1,8 @@
 .alligator-sample { 
     .wrapper {
+        h1 {
+            font-size: 45px;
+        }
         /* The height needs to be set to a fixed value for the effect to work.
          * 100vh is the full height of the viewport. */
         height: 100vh;
